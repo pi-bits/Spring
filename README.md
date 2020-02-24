@@ -1,11 +1,4 @@
 # Spring
-#### Core Concepts of Spring Security:
-
-1. Authentication
-2. Authorization
-3. Principal
-4. Granted Authority
-5. Roles
 
 #### Create a web application:
 Add a Controller
